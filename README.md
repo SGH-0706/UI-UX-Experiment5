@@ -37,5 +37,41 @@ Person 2: Shalu
 
 Scenario 2: Designing an E-Commerce Website for Handmade Crafts
 Artisans and small business owners need a way to easily list and sell handmade products online because current platforms are not user-friendly or personalized for crafts, which results in lost sales and limited brand visibility.
+
+User Interviews (Artisans & Buyers): To understand challenges in selling and buying handmade products.
+Card Sorting: To design intuitive product categories and filters for easy navigation.
+Usability Testing: To improve the checkout experience and ensure users can purchase without confusion.
+
+Persona 1: Kavitha Reddy
+
+Age: 40
+
+Occupation: Handicraft Artist
+Location: Hyderabad
+Goals: Sell her handmade jewelry online to reach more customers.
+Behaviors: Takes product photos herself; struggles with tech tools.
+Pain Points: Uploading product details is confusing; lacks trust in online payment systems.
+Motivation: Wants recognition and steady income from her craft.
+
+Persona 2: Rohan Patel
+Age: 25
+
+Occupation: Interior Designer
+Location: Pune
+Goals: Find unique handmade items for his clients.
+Behaviors: Searches for personalized and eco-friendly decor online.
+Pain Points: Hard to verify authenticity of items; product images don’t always reflect real quality.
+Motivation: Wants a trustworthy platform showcasing genuine handmade products.
+
+
+
 ```
 ## Result:
+Calories Intake Tracker App:
+Integrated calorie tracking, personalized food recommendations, and visual progress charts improved user engagement and tracking accuracy.
+
+E-Commerce Portal for Handmade Crafts:
+Simplified product listing process, enhanced trust indicators, and smoother checkout flow improved usability and reduced cart abandonment.
+
+Overall:
+Boosted user satisfaction, minimized frustration, and increased goal completion rates across both platforms.
